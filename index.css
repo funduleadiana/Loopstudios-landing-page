@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    height: 70vh;
+    background: url(/images/desktop/image-hero.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
